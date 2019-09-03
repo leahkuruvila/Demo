@@ -28,6 +28,7 @@ public class Addition
         
         sum = num1*num2*num3;
         System.out.println("The product of these numbers is " + sum);
+        System.out.println("The product of these numbers is " + sum);
        
     }
 }
